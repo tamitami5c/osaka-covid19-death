@@ -1,0 +1,1 @@
+# osaka-covid19-death
