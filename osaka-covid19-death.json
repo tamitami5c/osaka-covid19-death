@@ -1,5 +1,5 @@
 {
-  "last_updated": "2020-08-31",
+  "last_updated": "2020-09-06",
   "data": [
     {
       "osaka_patient_id": 17,
@@ -1368,6 +1368,123 @@
       "cause_of_death": "新型コロナウイルス感染症",
       "sex": "male",
       "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 4256,
+      "release_date": "2020-09-01",
+      "death_date": "2020-08-31",
+      "age_group": "80代",
+      "cause_of_death": "新型コロナウイルス肺炎",
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 7738,
+      "release_date": "2020-09-01",
+      "death_date": "2020-08-31",
+      "age_group": "70代",
+      "cause_of_death": "肺炎",
+      "sex": "female",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 8489,
+      "release_date": "2020-09-01",
+      "death_date": "2020-09-01",
+      "age_group": "60代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "male",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 5559,
+      "release_date": "2020-09-02",
+      "death_date": "2020-09-02",
+      "age_group": "70代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "female",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 8557,
+      "release_date": "2020-09-02",
+      "death_date": "2020-09-01",
+      "age_group": "60代",
+      "cause_of_death": "乳がん",
+      "sex": "female",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 7777,
+      "release_date": "2020-09-04",
+      "death_date": "2020-09-02",
+      "age_group": "70代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "female",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 8475,
+      "release_date": "2020-09-04",
+      "death_date": "2020-09-03",
+      "age_group": "80代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 8507,
+      "release_date": "2020-09-04",
+      "death_date": "2020-09-03",
+      "age_group": "70代",
+      "cause_of_death": "胃がん",
+      "sex": "male",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 8885,
+      "release_date": "2020-09-04",
+      "death_date": "2020-09-04",
+      "age_group": "80代",
+      "cause_of_death": "肺高血圧症",
+      "sex": "female",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 6554,
+      "release_date": "2020-09-05",
+      "death_date": "2020-09-04",
+      "age_group": "60代",
+      "cause_of_death": "新型コロナウイルスによる呼吸不全",
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 7154,
+      "release_date": "2020-09-05",
+      "death_date": "2020-09-04",
+      "age_group": "50代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "male",
+      "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 6281,
+      "release_date": "2020-09-06",
+      "death_date": "2020-09-06",
+      "age_group": "80代",
+      "cause_of_death": "脳梗塞",
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 7271,
+      "release_date": "2020-09-06",
+      "death_date": "2020-09-05",
+      "age_group": "50代",
+      "cause_of_death": "新型コロナウイルス感染症",
+      "sex": "male",
+      "have_underlying_conditions": true
     }
   ]
 }
