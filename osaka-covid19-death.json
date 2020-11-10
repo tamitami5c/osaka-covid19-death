@@ -1604,6 +1604,15 @@
       "have_underlying_conditions": false
     },
     {
+      "osaka_patient_id": 9550,
+      "release_date": "2020-09-13",
+      "death_date": "unknown",
+      "age_group": "70代",
+      "cause_of_death": null,
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
       "osaka_patient_id": 8567,
       "release_date": "2020-09-14",
       "death_date": "2020-09-14",
@@ -1656,6 +1665,15 @@
       "cause_of_death": "新型コロナウイルス肺炎",
       "sex": "male",
       "have_underlying_conditions": true
+    },
+    {
+      "osaka_patient_id": 9675,
+      "release_date": "2020-09-15",
+      "death_date": "unknown",
+      "age_group": "60代",
+      "cause_of_death": null,
+      "sex": "male",
+      "have_underlying_conditions": false
     },
     {
       "osaka_patient_id": 8468,
