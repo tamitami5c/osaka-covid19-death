@@ -2108,11 +2108,29 @@
       "have_underlying_conditions": true
     },
     {
+      "osaka_patient_id": 12077,
+      "release_date": "2020-10-26",
+      "death_date": "unknown",
+      "age_group": "70代",
+      "cause_of_death": null,
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
       "osaka_patient_id": 12217,
       "release_date": "2020-10-28",
       "death_date": "2020-10-28",
       "age_group": "70代",
       "cause_of_death": "新型コロナウイルスによる肺炎",
+      "sex": "male",
+      "have_underlying_conditions": false
+    },
+    {
+      "osaka_patient_id": 12466,
+      "release_date": "2020-10-29",
+      "death_date": "unknown",
+      "age_group": "70代",
+      "cause_of_death": null,
       "sex": "male",
       "have_underlying_conditions": false
     },
